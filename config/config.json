@@ -1,9 +1,9 @@
 {
   "proofsEnabled": false,
-  "isUniversal": true,
+  "isUniversal": false,
   "deploy": {
-    "optimism": "",
-    "base": ""
+    "optimism": "XCounter",
+    "base": "XCounter"
   },
   "createChannel": {
     "srcChain": "",
